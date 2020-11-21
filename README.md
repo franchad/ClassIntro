@@ -1,6 +1,13 @@
 # ClassIntro
 #H1 README.md
-![](imageheadshot.jpg)
-H2 lalalalalalalalala
-H3 Table of Contents
-https://www.google.com/
+![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fres-4.cloudinary.com%2Fcrunchbase-production%2Fimage%2Fupload%2Fc_lpad%2Ch_256%2Cw_256%2Cf_auto%2Cq_auto%3Aeco%2Fbt3f4mznhsssij7xjhmc&imgrefurl=https%3A%2F%2Fwww.crunchbase.com%2Forganization%2Fblockchain-research-institute&tbnid=FaqVhoY9VlhRSM&vet=12ahUKEwjq19Oej5TtAhUCD98KHTx0CPIQMygBegUIARCKAQ..i&docid=RA0xBzRQxJCEyM&w=256&h=256&q=blockchain%20research%20institute&ved=2ahUKEwjq19Oej5TtAhUCD98KHTx0CPIQMygBegUIARCKAQ)
+### What is the Blockchain Research Instuite? 
+##The foundation of the Blockchain Research Institute’s work is our research, which includes over 100 in-depth projects from a global network of experts. The BRI research program includes dozens of new case studies, whitepapers, and in-depth examinations into the impact of blockchain on corporate management structures. All of the BRI’s research projects are exclusive to members on a six-month basis before they are released to the public. Click here to view a complete list of our published and upcoming research.
+## What is blockchain?
+##A blockchain is a distributed software network that functions both as a digital ledger and a mechanism enabling the secure transfer of assets without an intermediary. Just as the internet is a technology that facilitates the digital flow of information, blockchain is a technology that facilitates the digital exchange of units of value. Anything from currencies to land titles to votes can be tokenized, stored, and exchanged on a blockchain network.
+##The first manifestation of blockchain technology emerged in 2009 with the Bitcoin blockchain, a secure, censorship-resistant, peer to peer electronic cash system. Because Bitcoin is accessible to anyone, it is an example of an open, or a permissionless blockchain.
+##Today, there are many forms of blockchain technology. Some blockchains have been designed to meet the needs of a finite group of participants, where access to the network is restricted. These are examples of private, or permissioned blockchains.
+##In addition to the secure transfer of value, blockchain technology provides a permanent forensic record of transactions and a single version of the truth – a network state that is fully transparent and displayed in real time for the benefit of all participants.
+##Regardless of the type of blockchain protocol that is deployed, blockchain technology holds great promise to transform centuries-old business models, paving the way for higher levels of legitimacy in government and creating new opportunities for prosperity for everyday citizens.
+### Check out the Blockchain 101 Youtube list
+https://www.youtube.com/playlist?list=PLYgkm0MK8DQGa5_-kK-836SoaOXqjD4rW
